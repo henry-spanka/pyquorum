@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-    Dummy conftest.py for pyqourum.
+    Dummy conftest.py for pyquorum.
 
     If you don't know what this is for, just leave it empty.
     Read more about conftest.py under:

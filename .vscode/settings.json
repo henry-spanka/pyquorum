@@ -1,0 +1,7 @@
+{
+    "restructuredtext.confPath": "${workspaceFolder}/docs",
+    "python.pythonPath": "/Users/henryspanka/Development/pyquorum/venv/bin/python3",
+    "python.linting.mypyEnabled": true,
+    "python.linting.enabled": true,
+    "python.linting.pylintEnabled": false
+}
